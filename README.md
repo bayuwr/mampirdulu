@@ -1,0 +1,2 @@
+# mampirdulu
+Blog safelink
