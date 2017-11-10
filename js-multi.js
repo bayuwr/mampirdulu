@@ -25,7 +25,7 @@ if(x=="1"){xxx="/2017/11/apa-obat-paling-ampuh-untuk-sembuhkan.html"}
 if(x=="2"){xxx="/2017/11/penyakit-apa-yang-sering-menyerang.html"}
 if(x=="3"){xxx="/2017/11/cara-hilangkan-stres-paling-ampuh.html"}
 if(x=="4"){xxx="/2017/11/cara-paling-mudah-untuk-sembuhkan-asam.html"}
-if(x=="5"){xxx="/2017/11/cara-paling-hebat-sembuhkan-jerawat.html"}a_to_ve[i].href="https://mampirduluyagan.blogspot.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="/2017/11/cara-paling-hebat-sembuhkan-jerawat.html"}a_to_ve[i].href="http://www.mampirdulu.xyz"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
